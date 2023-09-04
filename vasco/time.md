@@ -1,2 +1,0 @@
-# Arao
-# Thiago
