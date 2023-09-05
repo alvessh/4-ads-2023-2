@@ -2,7 +2,7 @@
 #Soma de Números
 #Escreva um algoritmo que recebe dois números e retorna a soma deles.
 
-class SomaNumeros   :
+class SomaNumero:
 
     def __init__(self, n1, n2):
         self.n1 = n1
